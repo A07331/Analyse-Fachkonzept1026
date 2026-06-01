@@ -52,7 +52,7 @@
 
 ### 2) Grenzwert- und Variantenmatrix
 - Grenzwerte (z. B. Datumsgrenzen, Schwellenwerte, Klassengrenzen) explizit testen.
-- Paarweise Varianten (z. B. Gewerbeart × Risikoausprägung × Laufzeit) priorisieren.
+- Paarweise Varianten (z. B. Kombinationen aus Gewerbeart, Risikoausprägung und Laufzeit) priorisieren.
 
 ### 3) End-to-End-Regression
 - Kernprozess vom Antrag bis zur Ausgabe (Angebot/Police) als E2E-Szenario absichern.
